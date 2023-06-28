@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controlador.AbstractController" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAAAAgQAAAAAAAAAAgCAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controlador.AjustmentController" Collapsed="true">
+    <Position X="6" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>AjustmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controlador.Constantes" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constantes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controlador.DataContoller" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAEgggAAAAAAAIAAAACgAAAAAoABAAAIAAAECAAAA=</HashCode>
+      <FileName>DataController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controlador.DataFilesContoller" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAgAAAACAEAAAAAAAAAAAA=</HashCode>
+      <FileName>DataFilesContoller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controlador.GraphContoller" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAQAAAAAAAAAAAgAAAAAAAAAEAAQA=</HashCode>
+      <FileName>GraphContoller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controlador.PythonContoller" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PythonContoller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Controlador.ProcedimientosAlmacenados" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constantes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
